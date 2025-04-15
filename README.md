@@ -1,4 +1,6 @@
 📊 Food Delivery Data Analysis Project – New Delhi 🛵🍴
+
+
  Using Python for Exploratory Data Analysis and Visualization
 Over the past few days, I’ve been exploring a dataset of food delivery orders from New Delhi, and I’m excited to share some insights from my analysis! This was a hands-on project focused on uncovering customer behavior, order trends, and business patterns in the online food delivery space.
 🔍 Project Objectives:
